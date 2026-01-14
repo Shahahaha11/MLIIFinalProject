@@ -1,0 +1,7 @@
+data/
+*.parquet
+catboost_info/
+models/catboost_info/
+.DS_Store
+*.tfevents
+*.tsv
